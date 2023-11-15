@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sasha Dominguez</h1>
-<h3 align="center">A passionate frontend developer from Barcelona</h3>
-
+***
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sulig&label=Profile%20views&color=0e75b6&style=flat" alt="sulig" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sulig" alt="sulig" /></a> </p>
-
+***
 - 🔭 I’m currently working on [Push_Swap](https://github.com/Sulig/Push_Swap)
 
 - 🌱 I’m currently learning **C**
@@ -14,7 +12,7 @@
 - 💬 Ask me about **C, C#, Unity**
 
 - 📫 How to reach me **sadoming@student.42barcelona.com**
-
+***
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sasha-dominguez-ferrer-8812a2207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sasha dominguez ferrer" height="30" width="40" /></a>
@@ -26,6 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sulig&show_icons=true&locale=en&layout=compact" alt="sulig" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sulig&show_icons=true&locale=en" alt="sulig" /></p>
-
-
-https://profile.intra.42.fr/users/sadoming
+***
