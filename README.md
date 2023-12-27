@@ -10,7 +10,7 @@
 
 ***
 
-- 🔭 I’m currently working on [Push_Swap](https://github.com/Sulig/Push_Swap)
+- 🔭 I’m currently working on [Philosophers](https://github.com/Sulig/Philosophers)
 
 - 🌱 I’m currently learning **C**
 
