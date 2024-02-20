@@ -10,7 +10,7 @@
 
 ***
 
-- 🔭 I’m currently working on [Philosophers](https://github.com/Sulig/Philosophers)
+- 🔭 I’m currently working on [Minnishell]([https://github.com/Sulig/Philosophers](https://github.com/Sulig/Minishell))
 
 - 🌱 I’m currently learning **C**
 
