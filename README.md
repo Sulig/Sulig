@@ -1,3 +1,7 @@
+<div>
+  <img src="https://raw.githubusercontent.com/Sulig/Sulig/main/Header.png" alt="Header image">
+</div>
+
 <h1 align="center">Hi 👋, I'm Sasha Dominguez</h1>
 
 ###
