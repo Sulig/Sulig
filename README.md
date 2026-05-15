@@ -42,21 +42,11 @@
 ### Contact-Me:
 
 <div align="center">
-  <a href="sadoming@student.42barcelona.com" target="_blank">
+  <a href="suligvondooka@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://linkedin.com/in/sasha-dominguez-ferrer-8812a2207" target="_blank">
+  <a href="https://linkedin.com/in/sasha-dominguez-ferrer-gamedev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</div>
-
-### Found me in:
-
-<div align="center">
-  <a href="https://codepen.io/Sulig" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
-  </a>
 </div>
 
 ***
