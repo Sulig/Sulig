@@ -45,14 +45,18 @@
   <a href="suligvondooka@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://linkedin.com/in/sasha-dominguez-ferrer-gamedev" target="_blank">
+  <a href="https://linkedin.com/in/sasha-dominguez-ferrer-audiovisual" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href='https://ko-fi.com/X4G228QU1L' target='_blank'>
+    <img height='40' style='border:0px;height:40px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+  </a>
 </div>
 
 ***
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/sulig/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/sulig/count.svg?" alt="Counter"/>
 </div>
 
 ***
